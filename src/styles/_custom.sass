@@ -3,12 +3,17 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
-    right: 10%
+    left: 10%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 40%
+    right: 10%
+  &-3
+    animation: float1 2s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    left: 5%
 
 @keyframes float1
   0%
@@ -18,15 +23,405 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
+  @media screen and (max-width: 1200px)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-md.png") !important
+  @media screen and (max-width: 768px)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-principal-int.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 420px !important
+  @media screen and (max-width: 1200px)
+    width: 370px !important
+  @media screen and (min-width: 1400px)
+    width: 470px !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: $color-sistema-texto !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
+
+/// INTRO
+.caja-1
+  background-color: #F8E0DB
+  padding-left: 2rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem
+    img
+      margin: 0rem !important
+      padding: 0rem !important
+.fit___box_container
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem 2rem
+
+.caja-2
+  background-color: #EBF1EE
+
+/// TEMA 1
+.caja-3
+  background-color: #9FBDAC
+  padding: 1rem 1.5rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
+.bg-1
+  background-image: url("../assets/curso/temas/img3.png")
+  background-repeat: no-repeat
+  background-size: 1145px
+  margin-inline: -3.2rem !important
+  @media screen and (min-width: 1400px)
+    background-size: 1325px
+
+.estilo___ul
+  li
+    margin-left: -1rem
+.fa-check-circle
+  color: #7E6424 !important
+
+.bg-slider
+  background-image: url("../assets/curso/temas/img5.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  margin-inline: -3.2rem !important
+  padding: 3rem 0rem
+
+.slyder-a__item
+  padding: 4rem 3rem 1rem 4rem !important
+.slyder-a__tipo-b
+  padding: 0rem 2rem 2rem 2rem !important
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: $color-acento-botones
+.slyder-a__bullets__item 
+  background-color: #C5CDC8 !important
+  border: 0px
+.slyder-a__bullets__item--active
+  background-color: #6E8378 !important
+.slyder-a__bullets__item
+  @media screen and (max-width: 768px)
+    width: 10px !important
+    height: 10px !important
+    margin: 0.2rem
+.ajuste-slider
+  border-radius: 20px
+  background-color: white
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4)
+  background: rgba(255, 255, 255, 0.3)
+  backdrop-filter: blur(2rem)
+  -webkit-backdrop-filter: blur(2rem)
+  border: 1px solid rgba(255, 255, 255, 0.4)
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+.acordeonA
+  position: relative
+  background-color: #775852
+  width: 100%
+  p
+    padding-left: 4.3rem
+  h3
+    color: white !important
+  @media screen and (max-width: 1200px)
+    width: 100%
+    img
+      padding-left: 3.5rem
+.acordion__activo
+  background-color: #F8E0DB
+  h3
+    color: $color-sistema-texto !important
+.ajuste-cajaAcordion
+  padding: 0rem 1rem 0rem 0rem
+  ul
+    padding: 0rem 3.3rem
+  ol
+    padding: 0rem 4.1rem
+.ajuste-tabla-acordion
+  padding-left: 4.3rem
+  @media screen and (max-width: 1200px)
+    padding-left: 4.3rem
+.fit___vineta-acordion
+  ul
+    padding: 0rem 2.5rem
+
+.ajuste-caja-2
+  padding: 3rem 2rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
+.caja-4
+  background-color: #D8E4DE
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
+  h4
+    padding: 1rem 2rem 1rem 2rem
+.box___card_sinbordes_p
+    padding: 0rem 2rem 3rem 2rem
+.caja-4:hover
+  background-color: #F8E0DB
+  cursor: pointer
+
+.caja-5
+  background-color: $color-acento-contenido
+  border-radius: 5px
+  display: inline-flex
+  align-items: center
+  padding: 1rem
+  height: 40px
+  margin-left: 0.2rem
+  @media screen and (max-width: 768px)
+    margin-left: 0rem
+    padding: 0.5rem 1rem 0.5rem 1.5rem !important
+    width: auto
+    height: auto
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+    margin-left: 0.4rem
+  h3
+    margin-left: 0rem
+    padding-left: 0rem
+    align-items: center
+    white-space: normal
+    word-break: break-word
+    margin-bottom: 0px
+  img
+    position: relative
+    left: -8px
+    bottom: 7px
+    @media screen and (max-width: 1200px)
+      bottom: 4px
+    @media screen and (max-width: 768px)
+      bottom: 0px
+
+.bg-2
+  background-image: url("../assets/curso/temas/img34.png")
+  background-repeat: no-repeat
+  background-size: 1145px
+  margin-inline: -3.2rem !important
+  @media screen and (min-width: 1400px)
+    background-size: 1325px
+
+.tabla-a
+  width: 100% !important
+  overflow-x: auto
+  -webkit-overflow-scrolling: touch
+  table
+    border-collapse: collapse
+    width: 100%
+    min-width: 500px
+    table-layout: auto 
+  thead
+    border-top: 7px solid #B18C32 !important
+    background-color: $color-acento-contenido !important
+  tbody
+    border: none !important
+    background-color: white !important
+  td
+    border: none
+    padding: 1rem
+  th
+    padding: 1.5rem
+    @media screen and (max-width: 1200px)
+      padding: 0.5rem
+.ajuste-border-tabla
+  border-right: 1px solid #d5d5d5 !important
+.ajuste-color-tabla
+  background-color: #F6F6F6 !important
+.texto-right
+  text-align: right !important
+.texto-left
+  text-align: left !important
+
+.tarjeta.color-acento-contenido
+  background-color: #775852
+  @media screen and (max-width:  1200px)
+    border-radius: 20px !important
+
+.tarjeta.color-primario
+  background-color: #6E8378
+  @media screen and (max-width: 1200px)
+    border-radius: 20px !important
+
+.caja-6
+  background-color: #D8E4DE
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
+  h4
+    padding: 1rem 2rem 1rem 2rem
+
+.bg-3
+  background-image: url("../assets/curso/temas/img34.png")
+  background-repeat: no-repeat
+  background-size: 1145px
+  margin-inline: -3.2rem !important
+  background-position: bottom
+  @media screen and (min-width: 1400px)
+    background-size: 1325px
+
+/// TEMA 2
+.fit___pasosA-left
+  text-align: left
+
+/// TEMA 3
+.ajuste-color-1
+  background-color: #EBF1EE
+
+/// TEMA 4
+.caja-7
+  background-color: #4E5D55
+  padding: 3rem 1.5rem
+  border-radius: 20px
+  h4
+    color: white
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+.tarjeta-audio__texto
+  color: $color-sistema-texto !important
+  margin-bottom: 2rem !important
+  font-style: normal !important
+.tarjeta-audio
+  background-color: white
+  border-radius: 10px
+  border: 3px solid $color-primario !important
+  padding: 1rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+.tarjeta-audio.color-acento-contenido .tarjeta-audio__input input[type=range]
+  background: rgb(255, 233, 181)
+  background-image: linear-gradient(#FF9B08, #FF9B08)
+.audio__btn
+  background-color: $color-acento-contenido !important
+
+.pasos-b__header__btn--left
+  background-color: $color-acento-botones
+  border: 1px solid white
+  color: white
+.pasos-b__header__btn--left:hover
+  border: 1px solid white
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2)
+.pasos-b__header__btn--right
+  background-color: $color-acento-botones
+  border: 1px solid white
+  color: white
+.pasos-b__header__btn--right:hover
+  border: 1px solid white
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2)
+.pasos-b__header__item 
+  @media screen and (max-width: 576px)
+    min-width: 100%
+.ajuste-slider-pasos
+  width: 100% !important
+  border-radius: 20px
+  margin: 0rem !important
+  padding: 3rem !important
+  background-color: $white
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4)
+  background: rgba(255, 255, 255, 0.3)
+  backdrop-filter: blur(2rem)
+  -webkit-backdrop-filter: blur(2rem)
+  border: 1px solid rgba(255, 255, 255, 0.4)
+.fit___pasos_contenido
+  padding: 0rem 2rem
+.fit___pasos_contenido__img
+  @media screen and (max-width: 1200px)
+    img
+      width: 75% !important
+
+/// TEMA 5
+.lista-ol--cuadro
+  li
+    display: flex
+  span
+    font-weight: bold
+.lista-ol--cuadro__vineta
+  color: $color-sistema-texto
+
+.lista-ol--cuadro
+  span
+    font-weight: bold
+.lista-ol--cuadro__vineta
+  color: $color-sistema-texto
+
+.fit--p-ol
+  margin-left: -4.3rem !important
+
+.tabs-b__tab
+  background-color: #FDF6F5
+  border: none
+.tabs-b__tab:hover
+    background-color: #FDF6F5
+.tabs-b__tab--active
+  background-color: #FBEFEC
+.tabs-b__tab--active:hover
+  background-color: #FBEFEC !important
+.tabs-b
+  border: none
+.tabs-b__content-item
+  background-color: #FBEFEC
+.tabs-b__header
+  background-color: #FBEFEC
+.ajuste__movil_3
+  padding: 0rem 0rem 0rem 5rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem 3rem
+
+/// TEMA 6
+.ajuste-color-2
+  background-color: #FDF6F5
+
+.bg-carrusel
+  background-image: url("../assets/curso/temas/img104.png")
+  background-repeat: no-repeat
+  background-size: 1150px
+  margin-inline: -3.2rem !important
+  @media screen and (min-width: 1400px)
+    background-size: 1330px
+
+.tarjeta.color-acento-botones
+  background-color: white
+  padding: 4rem 2.5rem !important
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
+  h4
+    color: $color-sistema-texto
+  p
+    color: $color-sistema-texto
+  i
+    color: $color-sistema-texto
+  b
+    color: $color-sistema-texto
+.horizontal-scroll__wrapper
+  padding: 1rem 0.5rem
+.fa-chevron-right
+  color: $color-acento-botones
+.fa-chevron-left
+  color: $color-acento-botones
+.estilo-text
+  background-color: white
+  text-align: center
+  padding: 0.3rem
+.slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: $color-sistema-texto
+  border-radius: 50px
+  padding: 0.8rem 1rem
+.slyder-f__btn i:hover
+  background-color: $color-acento-botones
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3)
+  border: 1px solid white
+  transition: opacity 0.3s ease-in-outbox-shadow 0.3s ease-in-out
+
+.caja-8
+  background-color: white
+  padding: 2rem 3rem
+  border-radius: 14px 
+  box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.4)
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
+.ajuste-caja-3
+  padding: 5rem 3rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem

@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Buenas Prácticas de Manufactura, Manipulación de Alimentos e Inocuidad en la Industria Cárnica'
