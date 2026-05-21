@@ -393,7 +393,7 @@
     p.mb-5 Acto seguido, se dará paso a la integración con sistemas de inocuidad en el siguiente video. Esto permite la articulación de prácticas, controles y normativas para garantizar alimentos seguros, optimizar procesos y fortalecer la prevención de riesgos en toda la cadena productiva.
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DeZMjIb9mw8?si=6UlcC-5Y1-l-8ZtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption #[b Video]. Integración con sistemas de inocuidad.
 
 </template>
