@@ -372,14 +372,121 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Agentes patógenos',
+      significado:
+        'microorganismos (bacterias, virus, hongos o parásitos) capaces de causar enfermedades.',
+    },
+    {
+      termino: 'BPM (Buenas Prácticas de Manufactura)',
+      significado:
+        'conjunto de normas y procedimientos que aseguran la higiene y calidad en la producción de alimentos.',
+    },
+    {
+      termino: 'Contaminación cruzada',
+      significado:
+        'transferencia de microorganismos o sustancias contaminantes de un alimento o superficie a otro, generalmente por contacto directo o indirecto.',
+    },
+    {
+      termino: 'Control sanitario',
+      significado:
+        'conjunto de medidas aplicadas para prevenir, eliminar o reducir riesgos que afecten la inocuidad de los alimentos.',
+    },
+    {
+      termino: 'Desinfección',
+      significado:
+        'proceso mediante el cual se eliminan o reducen microorganismos patógenos en superficies o equipos.',
+    },
+    {
+      termino: 'HACCP (Análisis de Peligros y Puntos Críticos de Control)',
+      significado:
+        'sistema preventivo que identifica, evalúa y controla los peligros significativos para la inocuidad alimentaria.',
+    },
+    {
+      termino: 'Inocuidad alimentaria',
+      significado:
+        'condición que garantiza que los alimentos no causarán daño al consumidor cuando se preparen y consuman de acuerdo con su uso previsto.',
+    },
+    {
+      termino: 'Limpieza',
+      significado:
+        'eliminación de suciedad visible, grasa y residuos orgánicos de superficies y utensilios.',
+    },
+    {
+      termino: 'Manipulador de alimentos',
+      significado:
+        'persona que interviene directamente en la preparación, procesamiento, almacenamiento o distribución de alimentos.',
+    },
+    {
+      termino: 'Plagas',
+      significado:
+        'organismos como insectos o roedores que pueden contaminar los alimentos y transmitir enfermedades.',
+    },
+    {
+      termino: 'POES (Procedimientos Operativos Estandarizados de Saneamiento)',
+      significado:
+        'protocolos documentados que describen las actividades de limpieza y desinfección en un establecimiento.',
+    },
+    {
+      termino: 'Residuos líquidos',
+      significado:
+        'desechos en estado líquido provenientes de procesos de limpieza o producción de alimentos.',
+    },
+    {
+      termino: 'Residuos sólidos',
+      significado:
+        'desechos sólidos generados durante la manipulación o procesamiento de alimentos, como restos orgánicos o empaques.',
+    },
+    {
+      termino: 'Temperatura de almacenamiento',
+      significado:
+        'condición térmica controlada en la cual se conservan los alimentos para evitar el crecimiento microbiano.',
+    },
+    {
+      termino: 'Zoonosis',
+      significado:
+        'enfermedades que pueden transmitirse de los animales a los seres humanos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Bravo, F. (2012). Manejo higiénico de los alimentos. Editorial Limusa.',
       link: '',
+    },
+    {
+      referencia:
+        'Codex Alimentarius Commission. (2020). General principles of food hygiene (CXC 1-1969). FAO/WHO.',
+      link: 'https://www.fao.org/fao-who-codexalimentarius/',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 136 de 2020: Bienestar animal en el transporte.',
+      link: 'https://www.ica.gov.co/',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (s.f.). Buenas prácticas ganaderas (BPG).',
+      link: 'https://www.ica.gov.co/',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA). (2013). Resolución 2674 de 2013.',
+      link: 'https://www.invima.gov.co/',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2013). Resolución 2674 de 2013: Requisitos sanitarios para alimentos.',
+      link: 'https://www.minsalud.gov.co/',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud (OMS). (2022). Cinco claves para la inocuidad de los alimentos.',
+      link: 'https://www.who.int/',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2021). Inocuidad de los alimentos.',
+      link: 'https://www.fao.org/',
     },
   ],
   creditos: [
@@ -387,14 +494,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de línea de producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -402,9 +510,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -412,19 +527,58 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jorge David Barbosa Losada',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Cristian Fernando Martnez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Maria Carolina Tamayo Lopez',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Fabio Armando Ortiz Reyes',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -432,14 +586,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ricardo Oliveros Zambrano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
