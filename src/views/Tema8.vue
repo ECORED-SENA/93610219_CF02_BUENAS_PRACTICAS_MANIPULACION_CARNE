@@ -160,15 +160,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Comprende el riesgo. 
+                    | Comprende el riesgo 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Actúa preventivamente. 
+                    | Actúa preventivamente 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    |  Se apropia de las normas. 
+                    |  Se apropia de las normas 
     Separador
     #t_8_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.4 Condiciones de salud del manipulador
@@ -207,23 +207,23 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Manos. 
+                  | Manos 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Cavidad nasal. 
+                  | Cavidad nasal 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Boca. 
+                  | Boca 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Piel.
+                  | Piel
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Cabello. 
+                  | Cabello 
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-6.h-100
           .row.justify-content-center.mb-3
@@ -245,19 +245,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Exámenes médicos periódicos.
+                  | Exámenes médicos periódicos
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Registro de salud.
+                  | Registro de salud
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Control de incapacidades.
+                  | Control de incapacidades
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Vigilancia epidemiológica.
+                  | Vigilancia epidemiológica
     Separador
     #t_8_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.5 Enfermedades transmisibles y su impacto en los alimentos
@@ -277,7 +277,7 @@
                   img(src='@/assets/curso/temas/img143.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Factores que favorecen transmisión
+                h4 Factores que favorecen la transmisión
                 p La transmisión de enfermedades se ve favorecida por diversos factores, entre ellos la mala higiene personal, que facilita la presencia de microorganismos en los alimentos.
                 p.mb-0 Asimismo, las temperaturas inadecuadas permiten la proliferación de bacterias, mientras que la contaminación cruzada y la manipulación incorrecta aumentan el riesgo sanitario.
               .col-xl-6
@@ -361,32 +361,32 @@
               .lista-ol--cuadro__vineta
                 span 1
               | 
-              p.mb-0 Autoevaluación diaria.
+              p.mb-0 Autoevaluación diaria
             li
               .lista-ol--cuadro__vineta
                 span 2
               | 
-              p.mb-0 Reporte inmediato.
+              p.mb-0 Reporte inmediato
             li
               .lista-ol--cuadro__vineta
                 span 3
               | 
-              p.mb-0 Retiro preventivo.
+              p.mb-0 Retiro preventivo
             li
               .lista-ol--cuadro__vineta
                 span 4
               | 
-              p.mb-0  Evaluación médica.
+              p.mb-0  Evaluación médica
             li
               .lista-ol--cuadro__vineta
                 span 5
               | 
-              p.mb-0 Registro del caso.
+              p.mb-0 Registro del caso
             li
               .lista-ol--cuadro__vineta
                 span 6
               | 
-              p.mb-0 Autorización de retorno.
+              p.mb-0 Autorización de retorno
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img153.png", alt="" ).m-auto

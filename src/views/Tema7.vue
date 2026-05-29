@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 7
-      h1 Buenas Prácticas de Manufactura (BPM) en la industria cárnica
+      h1 Buenas prácticas de manufactura (BPM) en la industria cárnica
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img118.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las Buenas Prácticas de Manufactura (BPM) constituyen el conjunto de normas, procedimientos y condiciones higiénico-sanitarias que garantizan la producción de alimentos inocuos, especialmente en productos de alto riesgo como la carne y sus derivados.
+        p.mb-0 Las buenas prácticas de manufactura (BPM) constituyen el conjunto de normas, procedimientos y condiciones higiénico-sanitarias que garantizan la producción de alimentos inocuos, especialmente en productos de alto riesgo como la carne y sus derivados.
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.1 Concepto e importancia de las BPM
     p.mb-5 En este apartado se presentará el concepto de las BPM y su importancia, destacando su papel en la inocuidad alimentaria, la prevención de riesgos y la salud pública.
@@ -72,47 +72,47 @@
                     .lista-ol--cuadro__vineta
                       span 1
                     | 
-                    p.mb-0 Higiene del personal. 
+                    p.mb-0 Higiene del personal 
                   li 
                     .lista-ol--cuadro__vineta
                       span 2
                     | 
-                    p.mb-0 Limpieza y desinfección. 
+                    p.mb-0 Limpieza y desinfección 
                   li 
                     .lista-ol--cuadro__vineta
                       span 3
                     | 
-                    p.mb-0 Control de plagas. 
+                    p.mb-0 Control de plagas 
                   li 
                     .lista-ol--cuadro__vineta
                       span 4
                     | 
-                    p.mb-0 Manejo de residuos. 
+                    p.mb-0 Manejo de residuos 
                   li 
                     .lista-ol--cuadro__vineta
                       span 5
                     | 
-                    p.mb-0 Control de materias primas. 
+                    p.mb-0 Control de materias primas 
                   li 
                     .lista-ol--cuadro__vineta
                       span 6
                     | 
-                    p.mb-0 Condiciones locativas adecuadas. 
+                    p.mb-0 Condiciones locativas adecuadas 
                   li 
                     .lista-ol--cuadro__vineta
                       span 7
                     | 
-                    p.mb-0 Control de procesos. 
+                    p.mb-0 Control de procesos 
                   li 
                     .lista-ol--cuadro__vineta
                       span 8
                     | 
-                    p.mb-0 Almacenamiento adecuado. 
+                    p.mb-0 Almacenamiento adecuado 
                   li 
                     .lista-ol--cuadro__vineta
                       span 9
                     | 
-                    p.mb-0 Transporte higiénico. 
+                    p.mb-0 Transporte higiénico 
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img121.png', alt='' style="max-width: 500px").m-auto
@@ -220,23 +220,23 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Inspección de materias primas. 
+                | Inspección de materias primas 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Control de temperatura. 
+                | Control de temperatura 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Análisis microbiológicos. 
+                | Análisis microbiológicos 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Verificación de procesos. 
+                | Verificación de procesos 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Control de vida útil. 
+                | Control de vida útil 
           .row(titulo="Parámetros de control").ajuste-cajaAcordion
             p.mb-3 El control de calidad en alimentos incluye diferentes tipos de evaluación: el control físico analiza características como color y textura; el químico evalúa parámetros como pH y humedad; el microbiológico detecta la presencia de bacterias; y el sensorial examina olor y sabor.
           .row(titulo="Inocuidad alimentaria").ajuste-cajaAcordion
@@ -265,23 +265,23 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Evaluación constante. 
+              | Evaluación constante 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Identificación de fallas. 
+              | Identificación de fallas 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Implementación de acciones correctivas. 
+              | Implementación de acciones correctivas 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Capacitación continua. 
+              | Capacitación continua 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Innovación tecnológica. 
+              | Innovación tecnológica 
       .col-xl-auto(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img130.png", alt="" ).m-auto

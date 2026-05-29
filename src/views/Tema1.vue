@@ -70,7 +70,7 @@
                 .row.justify-content-center.align-items-center
                   .col-xl-6.mb-4
                     h4 Adulterado
-                    p.mb-0 La carne es adulterada cuando se afecta su inocuidad por contaminantes, mala calidad, higiene deficiente o origen no autorizado.
+                    p.mb-0 La carne es adulterada cuando se afecta su inocuidad por contaminantes, mala calidad, higiene deficiente u origen no autorizado.
                   .col-xl-6
                     figure
                       img(src='@/assets/curso/temas/img6.png', alt='' style="max-width: 500px").m-auto
@@ -91,14 +91,14 @@
                 .row.justify-content-center.align-items-center
                   .col-xl-6.mb-4
                     h4 Canal bovina
-                    p.mb-0 Se denomina canal bovina al cuerpo del animal limpio, o sea sin piel ni extremidades.
+                    p.mb-0 Se denomina canal bovina al cuerpo del animal limpio, o sea, sin piel ni extremidades.
                   .col-xl-6
                     figure
                       img(src='@/assets/curso/temas/img11.png', alt='' style="max-width: 500px").m-auto
                 .row.justify-content-center.align-items-center
                   .col-xl-6.mb-4
                     h4 Carne fresca
-                    p.mb-0 Es la carne que no tiene proceso de maduración y se obtiene después del proceso post mórtem.
+                    p.mb-0 Es la carne que no tiene proceso de maduración y se obtiene después del proceso <i>post mortem</i>.
                   .col-xl-6
                     figure
                       img(src='@/assets/curso/temas/img8.png', alt='' style="max-width: 500px").m-auto
@@ -126,14 +126,14 @@
                   img(src='@/assets/curso/temas/img12.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 Carne picada
-                p.mb-0 Es la carne que se le retira el hueso y se acondiciona en cubos o en trozos.
+                p.mb-0 Es la carne a la que se le retira el hueso y se acondiciona en cubos o en trozos.
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
                   img(src='@/assets/curso/temas/img13.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 Derivados cárnicos
-                p.mb-0 Son productos obtenidos de la transformación de la carne y que se les ha adicionado ingredientes para mejorar sus características tecnológicas.
+                p.mb-0 Son productos obtenidos de la transformación de la carne y a los que se les ha adicionado ingredientes para mejorar sus características tecnológicas.
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
@@ -147,13 +147,13 @@
                   img(src='@/assets/curso/temas/img17.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 Expendio
-                p.mb-0 Es la distribución y comercialización del producto cárnicos a los diferentes puntos de venta.
+                p.mb-0 Es la distribución y comercialización del producto cárnico a los diferentes puntos de venta.
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
                   img(src='@/assets/curso/temas/img14.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
-                h4 Inspección ante mórtem
+                h4 Inspección <i>ante mórtem</i>
                 p.mb-0 Es un procedimiento que se realiza al animal antes de ser sacrificado por parte de un funcionario, el cual dictamina las condiciones de salubridad de los animales a sacrificar.
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -168,11 +168,11 @@
                   img(src='@/assets/curso/temas/img18.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 Sacrificio
-                p.mb-0 Proceso que se realiza para darle muerte a un animal, inicia con la sensibilización y termina en desangrado.
+                p.mb-0 Proceso que se realiza para darle muerte a un animal; inicia con la sensibilización y termina en desangrado.
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Decreto 1500 de 2007 y su aplicación
-    p.mb-5 El Decreto 1500 de 2007 regula la cadena cárnica en Colombia para garantizar la inocuidad desde la producción hasta el consumo y su aplicación en la cadena productiva está dad en:
+    p.mb-5 El Decreto 1500 de 2007 regula la cadena cárnica en Colombia para garantizar la inocuidad desde la producción hasta el consumo y su aplicación en la cadena productiva está dada en:
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -492,7 +492,7 @@
                   img(src='@/assets/curso/temas/img30.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Características de un Punto Crítico de Control (PCC):
+                h4 Características de un Punto Crítico de Control (PCC)
                 ul.fa-ul.estilo___ul.mb-3
                   li.mb-0
                     span.fa-li
@@ -506,7 +506,7 @@
                     span.fa-li
                       i.fas.fa-check-circle
                     | Tiene límites definidos (ej: temperatura, tiempo).
-                p.mb-0 #[b Ejemplo]: refrigeración de la canal a temperaturas menor igual que 4°C para evitar crecimiento bacteriano.
+                p.mb-0 #[b Ejemplo]: refrigeración de la canal a temperaturas menor o igual que 4°C para evitar crecimiento bacteriano.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img32.png', alt='' style="max-width: 500px").m-auto
@@ -612,7 +612,7 @@
               img(src='@/assets/curso/temas/img37.svg', alt='' style="max-width: 100px")
           .col-xl
             h2 Resultados en salud pública
-        p.mb-0 Disminución de riesgos como Salmonella, E. coli, Listeria. 
+        p.mb-0 Disminución de riesgos como #[b Salmonella, E. coli, Listeria ].
     .caja-5.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -714,7 +714,7 @@
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Relación entre normativa, equipos e inocuidad del alimento
-    p.mb-5 La inocuidad en la industria cárnica depende directamente de los equipos, utensilios e infraestructura, los cuales deben cumplir estrictamente con la normativa vigente, como el Decreto 2674 de 2013, la Resolución 240 de 2013 y el Decreto 1500 de 2007. A continuación, se detallará como se relacionan entre sí:
+    p.mb-5 La inocuidad en la industria cárnica depende directamente de los equipos, utensilios e infraestructura, los cuales deben cumplir estrictamente con la normativa vigente, como el Decreto 2674 de 2013, la Resolución 240 de 2013 y el Decreto 1500 de 2007. A continuación, se detallará cómo se relacionan entre sí:
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -740,7 +740,7 @@
                 span.fa-li
                   i.fas.fa-check-circle
                 | Fácil limpieza.
-            p.mb-3 Evita acumulación de microorganismos.
+            p.mb-3 Evita la acumulación de microorganismos.
           .row(titulo="Materiales aptos para contacto con alimentos").ajuste-cajaAcordion
             p #[b Materiales permitidos]
             ul.fa-ul.mb-3
@@ -751,7 +751,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Plásticos grado alimenticio.
+                | Plásticos de grado alimenticio.
             p Materiales prohibidos
             ul.fa-ul.mb-3
               li.mb-0
@@ -813,7 +813,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Lubricación grado alimenticio.
+                | Lubricación de grado alimenticio.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -934,7 +934,7 @@
                     span.fa-li
                       i.fas.fa-check-circle
                     | Cámaras de frío 
-                p.mb-3 Son considerados Puntos Críticos de Control (PCC) en HACCP
+                p.mb-3 Son considerados Puntos críticos de control (PCC) en HACCP.
         p.mb-5 Se presenta un cuadro resumen que muestra de forma clara la relación entre la normatividad sanitaria y la inocuidad en la industria cárnica, evidenciando cómo cada requisito contribuye a la calidad y seguridad de los productos.
         .row.justify-content-center
           .col-xl-6

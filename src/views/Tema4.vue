@@ -42,7 +42,7 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img73.jpg', alt="" ).m-auto
-            h4.text-center  Refrigeración (0°C a 4°C)
+            h4.text-center  Refrigeración (0° C a 4° C)
             .box___card_sinbordes_p
               p.mb-0.text-center Disminuye la actividad bacteriana sin congelar el producto.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -51,7 +51,7 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img74.jpg', alt="" ).m-auto
-            h4.text-center Congelación (-18°C o menor)
+            h4.text-center Congelación (-18° C o menor)
             .box___card_sinbordes_p
               p.mb-0.text-center Detiene casi por completo el crecimiento microbiano.
       .col-xl-4.col-md-9(data-aos="fade-left")
@@ -60,7 +60,7 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img75.jpg', alt="" ).m-auto
-            h4.text-center Zona de peligro (5°C – 60°C)
+            h4.text-center Zona de peligro (5° C - 60° C)
             .box___card_sinbordes_p
               p.mb-0.text-center En este rango las bacterias se multiplican rápidamente, aumentando el riesgo sanitario.
     Separador

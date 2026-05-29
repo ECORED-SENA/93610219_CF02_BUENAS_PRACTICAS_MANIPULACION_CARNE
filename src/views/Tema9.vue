@@ -71,19 +71,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Contaminación de alimentos.
+                    | Contaminación de alimentos
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Transmisión de enfermedades.
+                    | Transmisión de enfermedades
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Deterioro de materias primas.
+                    | Deterioro de materias primas
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Contaminación cruzada.
+                    | Contaminación cruzada
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img158.png', alt='' style="max-width: 500px").m-auto
@@ -95,15 +95,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Salmonelosis.
+                    | Salmonelosis
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Leptospirosis.
+                    | Leptospirosis
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Gastroenteritis.
+                    | Gastroenteritis
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img159.png', alt='' style="max-width: 500px").m-auto
@@ -115,19 +115,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Presencia de residuos.
+                    | Presencia de residuos
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Acumulación de agua.
+                    | Acumulación de agua
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Falta de limpieza.
+                    | Falta de limpieza
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Alimentos expuestos.
+                    | Alimentos expuestos
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img160.png', alt='' style="max-width: 500px").m-auto
@@ -391,7 +391,7 @@
           img(src="@/assets/curso/temas/img35.svg" style="max-width: 60px").m-auto
       .col
         h3 Animales domésticos y riesgo sanitario
-    p.mb-5 Los animales domésticos representan un alto riesgo en áreas de procesamiento. En este contexto se estudiarán los riesgos asociados y si dará un ejemplo para comprender el tema.
+    p.mb-5 Los animales domésticos representan un alto riesgo en áreas de procesamiento. En este contexto se estudiarán los riesgos asociados y se dará un ejemplo para comprender el tema.
     .tarjeta--container.row.justify-content-center.mb-0.m-0(data-aos="zoom-in")
       .col-xl-6.col-md-10.tarjeta.color-acento-contenido.text-white.p-5.mb-4.mb-lg-0
         .row.d-flex.align-items-end.mb-4

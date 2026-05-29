@@ -21,7 +21,7 @@
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Localización y accesos
-              p.mb-0 Las plantas donde fabriquen productos a base de carne deben estar ubicados en sitios libres de toda contaminación, pues ésta puede generar peligros de insalubridad y contaminación para la carne.
+              p.mb-0 Las plantas donde fabriquen productos a base de carne deben estar ubicadas en sitios libres de toda contaminación, pues esta puede generar peligros de insalubridad y contaminación para la carne.
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img48.png', alt='' style="width: 300px").m-auto
@@ -35,7 +35,7 @@
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Pisos y drenajes
-              p.mb-0 Los pisos de la planta de producción de derivados cárnicos deben ser construidos en materiales no porosos e impermeables, y que no generen ningún tipo de contaminación, además deben ser de fácil limpieza y desinfección.
+              p.mb-0 Los pisos de la planta de producción de derivados cárnicos deben ser construidos en materiales no porosos e impermeables, y que no generen ningún tipo de contaminación; además, deben ser de fácil limpieza y desinfección.
             .col-auto(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/img50.png', alt='' style="width: 300px").m-auto
@@ -45,7 +45,7 @@
                 img(src='@/assets/curso/temas/img51.png', alt='' style="width: 300px").m-auto
             .col-lg.fit___pasosA-left
               h3 Paredes
-              p.mb-0 Las paredes del área de producción de productos cárnicos deben ser en colores claros, resistente y de fácil limpieza y desinfección, las uniones entre las paredes deben ser de forma redondeada para así evitar la acumulación de cualquier tipo de suciedad.
+              p.mb-0 Las paredes del área de producción de productos cárnicos deben ser de colores claros, resistentes y de fácil limpieza y desinfección, las uniones entre las paredes deben ser de forma redondeada para así evitar la acumulación de cualquier tipo de suciedad.
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Techos
@@ -146,15 +146,15 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Evitan contaminación química 
+                | Evitan contaminación química. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Reducen microorganismos 
+                | Reducen microorganismos. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Garantizan inocuidad 
+                | Garantizan inocuidad. 
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Relación entre desmontaje de equipos y control de contaminación

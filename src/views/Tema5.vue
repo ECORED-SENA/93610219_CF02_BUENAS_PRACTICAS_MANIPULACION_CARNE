@@ -235,7 +235,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | No manipular alimentos enfermo.
+                | No manipular alimentos enfermos.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -319,7 +319,7 @@
               li.mb-1
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Botas y delantal:] protegen al trabajador y mantienen higiene.
+                | #[b Botas y delantal:] protegen al trabajador y mantienen la higiene.
             .row.align-items-center
               .col-xl-auto(data-aos="zoom-in")
                 figure.d-none.d-xl-block

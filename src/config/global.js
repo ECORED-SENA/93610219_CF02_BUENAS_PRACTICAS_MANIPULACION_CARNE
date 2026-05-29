@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Buenas Prácticas de Manufactura, Manipulación de Alimentos e Inocuidad en la Industria Cárnica',
+      'Buenas prácticas de manufactura, manipulación de alimentos e inocuidad en la industria cárnica',
     Description:
-      'Este componente formativo aborda los principios de las Buenas Prácticas de Manufactura (BPM), así como el rol y la responsabilidad del manipulador de alimentos y las medidas de control sanitario en la industria cárnica. Incluye temas como higiene, control de plagas, manejo de residuos y sistemas de inocuidad, con el propósito de garantizar la calidad, la seguridad alimentaria y la protección de la salud del consumidor.',
+      'Este componente formativo aborda los principios de las buenas prácticas de manufactura (BPM), así como el rol y la responsabilidad del manipulador de alimentos y las medidas de control sanitario en la industria cárnica. Incluye temas como higiene, control de plagas, manejo de residuos y sistemas de inocuidad, con el propósito de garantizar la calidad, la seguridad alimentaria y la protección de la salud del consumidor.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -334,11 +334,6 @@ export default {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',

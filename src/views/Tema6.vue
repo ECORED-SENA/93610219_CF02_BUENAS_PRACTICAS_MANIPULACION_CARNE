@@ -131,11 +131,11 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Vapor a #[b 80°C].
+              | Vapor a #[b 80° C].
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Agua caliente a #[b 80°C por 2 minutos].
+              | Agua caliente a #[b 80° C por 2 minutos].
           ol.lista-ol--cuadro.mb-3
             li
               .lista-ol--cuadro__vineta
@@ -153,13 +153,13 @@
       .col-xl
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
           .row(titulo="Cloro y sus compuestos ").ajuste-cajaAcordion
-            p.mb-3 Este compuesto es germicida de muchos microorganismos y por lo general se utiliza en concentración de 4,5 a 5%, la dosis de aplicación varía dependiendo de lo que se quiere desinfectar.
+            p.mb-3 Este compuesto es germicida de muchos microorganismos y, por lo general, se utiliza en concentración de 4,5 a 5 %, la dosis de aplicación varía dependiendo de lo que se quiere desinfectar.
           .row(titulo="Compuestos de amonio cuaternario").ajuste-cajaAcordion
-            p.mb-3 Estas sustancias son incoloras y no tóxicas, sirven para eliminar bacterias gramnegativas. Estos compuestos no son compatibles con detergentes aniónicos.
+            p.mb-3 Estas sustancias son incoloras y no tóxicas; sirven para eliminar bacterias gramnegativas. Estos compuestos no son compatibles con detergentes aniónicos.
           .row(titulo="Agentes anfóteros o tensoactivos").ajuste-cajaAcordion
-            p.mb-3 Estos compuestos no son tóxicos, son desinfectantes y no corrosivos, y pierden su actividad en presencia de materia orgánica.
+            p.mb-3 Estos compuestos no son tóxicos; son desinfectantes y no corrosivos, y pierden su actividad en presencia de materia orgánica.
           .row(titulo="Fenólicos").ajuste-cajaAcordion
-            p.mb-3 Este tipo de compuesto es muy utilizado para desinfectar cuartos de vestir y sanitarios, en productos como cítricos se usa difenil fenol para evitar el crecimiento de hongos, estos compuestos tienen actividad antibacterial prolongada como el yodo y el cloro.
+            p.mb-3 Este tipo de compuesto es muy utilizado para desinfectar cuartos de vestir y sanitarios; en productos como cítricos se usa difenilfenol para evitar el crecimiento de hongos. Estos compuestos tienen actividad antibacterial prolongada como el yodo y el cloro.
     Separador
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.3 Procedimientos y frecuencias de limpieza
@@ -185,32 +185,32 @@
                 .lista-ol--cuadro__vineta
                   span 1
                 | 
-                p.mb-0 Seleccionar el área a limpiar. 
+                p.mb-0 Seleccionar el área a limpiar 
               li
                 .lista-ol--cuadro__vineta
                   span 2
                 | 
-                p.mb-0 Retirar residuos gruesos. 
+                p.mb-0 Retirar residuos gruesos 
               li
                 .lista-ol--cuadro__vineta
                   span 3
                 | 
-                p.mb-0 Aplicar detergente. 
+                p.mb-0 Aplicar detergente 
               li
                 .lista-ol--cuadro__vineta
                   span 4
                 | 
-                p.mb-0 Cepillar o frotar superficies. 
+                p.mb-0 Cepillar o frotar superficies 
               li
                 .lista-ol--cuadro__vineta
                   span 5
                 | 
-                p.mb-0 Enjuagar con agua potable. 
+                p.mb-0 Enjuagar con agua potable 
               li
                 .lista-ol--cuadro__vineta
                   span 6
                 | 
-                p.mb-0 Verificar eliminación de suciedad. 
+                p.mb-0 Verificar eliminación de suciedad 
           .col-xl-auto.col-md-9(data-aos="fade-left")
             figure  
               img(src='@/assets/curso/temas/img103.png', alt='').m-auto
@@ -440,7 +440,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img116.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En el área de proceso está prohibido comer o fumar, los visitantes deben cumplir las normas establecidas y se debe mantener un estricto control sanitario del personal para garantizar la inocuidad.
+        p.mb-0 En el área de proceso está prohibido comer o fumar; los visitantes deben cumplir las normas establecidas y se debe mantener un estricto control sanitario del personal para garantizar la inocuidad.
     .caja-5.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -462,50 +462,50 @@
                   .lista-ol--cuadro__vineta
                     span 1
                   | 
-                  p.mb-0 Selección del área. 
+                  p.mb-0 Selección del área 
                 li
                   .lista-ol--cuadro__vineta
                     span 2
                   | 
-                  p.mb-0 Identificación de suciedad. 
+                  p.mb-0 Identificación de suciedad 
                 li
                   .lista-ol--cuadro__vineta
                     span 3
                   | 
-                  p.mb-0 Selección de detergente. 
+                  p.mb-0 Selección de detergente 
                 li
                   .lista-ol--cuadro__vineta
                     span 4
                   | 
-                  p.mb-0 Aplicación de limpieza. 
+                  p.mb-0 Aplicación de limpieza 
                 li
                   .lista-ol--cuadro__vineta
                     span 5
                   | 
-                  p.mb-0 Enjuague. 
+                  p.mb-0 Enjuague 
                 li
                   .lista-ol--cuadro__vineta
                     span 6
                   | 
-                  p.mb-0 Desinfección. 
+                  p.mb-0 Desinfección 
               p.mb-0  #[b Importancia en plantas cárnicas]
               ul.fa-ul.estilo___ul.mb-0
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  |  Previene enfermedades transmitidas por alimentos. 
+                  |  Previene enfermedades transmitidas por alimentos 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  |  Evita contaminación cruzada. 
+                  |  Evita contaminación cruzada 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  |  Garantiza calidad e inocuidad. 
+                  |  Garantiza calidad e inocuidad 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  |  Cumple normativa sanitaria.
+                  |  Cumple normativa sanitaria
         .caja-5.mb-5(data-aos="fade-right")
           .col-lg-auto
             figure
