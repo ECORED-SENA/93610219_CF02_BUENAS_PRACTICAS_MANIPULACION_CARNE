@@ -397,7 +397,7 @@
         .row.d-flex.align-items-end.mb-4
           .col-xl-auto.mb-3.mb-lg-0(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/img37.svg', alt='' style="max-width: 100px")
+              img(src='@/assets/curso/temas/img37d.svg', alt='' style="max-width: 100px")
           .col-xl
             h2 Riesgos asociados
         p Los riesgos asociados son:
@@ -418,7 +418,7 @@
         .row.d-flex.align-items-end.mb-4
           .col-xl-auto.mb-3.mb-lg-0(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/img37.svg', alt='' style="max-width: 100px")
+              img(src='@/assets/curso/temas/img37e.svg', alt='' style="max-width: 100px")
           .col-xl
             h2 Ejemplo
         p La toxoplasmosis es una enfermedad que puede ser transmitida por animales y representa un riesgo para la salud humana.
