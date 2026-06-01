@@ -16,7 +16,7 @@
       h2 7.1 Concepto e importancia de las BPM
     p.mb-5 En este apartado se presentará el concepto de las BPM y su importancia, destacando su papel en la inocuidad alimentaria, la prevención de riesgos y la salud pública.
     TabsB.color-acento-contenido(data-aos="zoom-in").mb-0
-      .py-4.py-md-5(titulo="Concepto" :icono="require('@/assets/curso/temas/img96.svg')")
+      .py-4.py-md-5(titulo="Concepto" )
         .row.align-items-center
           .col-xl-6.order-1.mb-4.mb-lg-0.p-5
             h4 Concepto
@@ -24,7 +24,7 @@
           .col-lg-6.mb-4.mb-md-0.order-2
             figure
               img(src='@/assets/curso/temas/img119.png', alt="" style="max-width: 450px").m-auto
-      .py-4.py-md-5(titulo="Importancia" :icono="require('@/assets/curso/temas/img96.svg')")
+      .py-4.py-md-5(titulo="Importancia" )
         .row.align-items-center
           .col-xl-6.order-1.mb-4.mb-lg-0.p-5
             h4 Importancia

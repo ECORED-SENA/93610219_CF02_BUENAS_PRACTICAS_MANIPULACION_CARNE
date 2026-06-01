@@ -17,7 +17,7 @@
       h2 8.1 Rol del manipulador en la cadena de inocuidad
     p.mb-5 El manipulador no solo ejecuta tareas, sino que actúa como un controlador activo de riesgos. El enfoque por etapas es el siguiente:
     TabsB.color-acento-contenido(data-aos="zoom-in").mb-5
-      .py-4.py-md-5(titulo="Enfoque por etapas del proceso cárnico" :icono="require('@/assets/curso/temas/img96.svg')")
+      .py-4.py-md-5(titulo="Enfoque por etapas del proceso cárnico" )
         .row.align-items-center
           .col-xl-6.order-1.mb-4.mb-lg-0.p-5
             h4 Enfoque por etapas del proceso cárnico
@@ -25,7 +25,7 @@
           .col-lg-6.mb-4.mb-md-0.order-2
             figure
               img(src='@/assets/curso/temas/img132.png', alt="" style="max-width: 450px").m-auto
-      .py-4.py-md-5(titulo="Ejemplo práctico" :icono="require('@/assets/curso/temas/img96.svg')")
+      .py-4.py-md-5(titulo="Ejemplo práctico" )
         .row.align-items-center
           .col-xl-6.order-1.mb-4.mb-lg-0.p-5
             h4 Ejemplo práctico
