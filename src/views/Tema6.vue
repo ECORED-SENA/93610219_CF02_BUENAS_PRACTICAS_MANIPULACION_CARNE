@@ -292,7 +292,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/temas/img114.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/img114a.svg', alt="" style="max-width: 90px").m-auto
             h4.text-center Preparación de la solución
             p.mb-0.text-center Luego, se prepara la solución desinfectante adecuada según las indicaciones establecidas.
       .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -300,7 +300,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/temas/img114.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/img114b.svg', alt="" style="max-width: 90px").m-auto
             h4.text-center Aplicación del desinfectante
             p.mb-0.text-center Se aplica la solución desinfectante sobre la superficie de manera uniforme.
       .col-xl-3.col-md-9(data-aos="zoom-in")
@@ -308,7 +308,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/temas/img114.svg', alt="" style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/img114c.svg', alt="" style="max-width: 90px").m-auto
             h4.text-center Tiempo de acción
             p.mb-0.text-center Finalmente, se deja actuar la solución desinfectante durante aproximadamente cinco minutos para asegurar su efectividad.
     .caja-5.mb-5(data-aos="fade-right")
