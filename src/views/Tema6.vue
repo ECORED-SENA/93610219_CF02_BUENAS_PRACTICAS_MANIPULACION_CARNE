@@ -27,7 +27,7 @@
         .row.d-flex.align-items-end.mb-4
           .col-xl-auto.mb-3.mb-lg-0(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/img37.svg', alt='' style="max-width: 100px")
+              img(src='@/assets/curso/temas/img37a.svg', alt='' style="max-width: 100px")
           .col-xl
             h2 Limpieza
         p.mb-0 Proceso mediante el cual se eliminan residuos visibles como grasa, sangre, polvo y materia orgánica de superficies, equipos y utensilios, utilizando agua y detergentes.

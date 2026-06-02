@@ -589,7 +589,7 @@
         .row.d-flex.align-items-end.mb-4
           .col-xl-auto.mb-3.mb-lg-0(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/img37.svg', alt='' style="max-width: 100px")
+              img(src='@/assets/curso/temas/img37b.svg', alt='' style="max-width: 100px")
           .col-xl
             h2 Acciones establecidas por la normatividad
         ul.fa-ul.estilo___ul.mb-0
@@ -609,7 +609,7 @@
         .row.d-flex.align-items-end.mb-4
           .col-xl-auto.mb-3.mb-lg-0(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/img37.svg', alt='' style="max-width: 100px")
+              img(src='@/assets/curso/temas/img37c.svg', alt='' style="max-width: 100px")
           .col-xl
             h2 Resultados en salud pública
         p.mb-0 Disminución de riesgos como #[b Salmonella, E. coli, Listeria ].
