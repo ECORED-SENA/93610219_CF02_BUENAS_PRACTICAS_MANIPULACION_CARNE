@@ -10,7 +10,7 @@
     .caja-1.mb-5(data-aos="zoom-in")
       .row.align-items-center
         .col-xl.order-2.order-lg-1.fit___box_container
-          p.mb-0 El presente curso desarrolla los fundamentos técnicos de las Buenas Prácticas de Manufactura (BPM) aplicadas a la industria cárnica, con énfasis en la inocuidad alimentaria como eje central del control sanitario y la protección de la salud pública. Se abordan los principios normativos que regulan la producción, procesamiento y comercialización de productos cárnicos, alineados con la legislación sanitaria vigente.
+          p.mb-0 El presente curso desarrolla los fundamentos técnicos de las buenas prácticas de manufactura (BPM) aplicadas a la industria cárnica, con énfasis en la inocuidad alimentaria como eje central del control sanitario y la protección de la salud pública. Se abordan los principios normativos que regulan la producción, procesamiento y comercialización de productos cárnicos, alineados con la legislación sanitaria vigente.
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/intro/img1.png', alt='').m-auto

@@ -131,11 +131,11 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Vapor a #[b 80° C].
+              | Vapor a #[b 80 °C].
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Agua caliente a #[b 80° C por 2 minutos].
+              | Agua caliente a #[b 80 °C por 2 minutos].
           ol.lista-ol--cuadro.mb-3
             li
               .lista-ol--cuadro__vineta
@@ -159,7 +159,7 @@
           .row(titulo="Agentes anfóteros o tensoactivos").ajuste-cajaAcordion
             p.mb-3 Estos compuestos no son tóxicos; son desinfectantes y no corrosivos, y pierden su actividad en presencia de materia orgánica.
           .row(titulo="Fenólicos").ajuste-cajaAcordion
-            p.mb-3 Este tipo de compuesto es muy utilizado para desinfectar cuartos de vestir y sanitarios; en productos como cítricos se usa difenilfenol para evitar el crecimiento de hongos. Estos compuestos tienen actividad antibacterial prolongada como el yodo y el cloro.
+            p.mb-3 Este tipo de compuesto es muy utilizado para desinfectar cuartos de vestir y sanitarios; en productos como cítricos se usa difenilfenol para evitar el crecimiento de hongos. Estos compuestos tienen actividad antibacterial prolongada, como el yodo y el cloro.
     Separador
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.3 Procedimientos y frecuencias de limpieza

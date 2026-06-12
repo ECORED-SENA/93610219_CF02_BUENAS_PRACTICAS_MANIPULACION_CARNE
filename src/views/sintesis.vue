@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="")
+          img(src="@/assets/curso/sintesis.svg", alt="La imagen presenta un esquema integral de las Buenas Prácticas de Manufactura en la industria cárnica, abarcando normativa, procesos, higiene, control sanitario, inocuidad, manejo de residuos y mejora continua, organizados por áreas clave para garantizar la calidad y seguridad alimentaria.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

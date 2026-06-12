@@ -21,7 +21,7 @@ export default {
         'Evaluación de conocimientos en Buenas Prácticas de Manufactura e inocuidad en la industria cárnica.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales relacionados con la inocuidad alimentaria, normatividad sanitaria y Buenas Prácticas de Manufactura, con el fin de fortalecer la aplicación de medidas higiénicas y de control en los procesos de manipulación de carne',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales relacionados con la inocuidad alimentaria, normatividad sanitaria y Buenas Prácticas de Manufactura, con el fin de fortalecer la aplicación de medidas higiénicas y de control en los procesos de manipulación de carne',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

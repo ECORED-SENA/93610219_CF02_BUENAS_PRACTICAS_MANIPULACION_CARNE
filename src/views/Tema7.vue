@@ -220,23 +220,23 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Inspección de materias primas 
+                | Inspección de materias primas.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Control de temperatura 
+                | Control de temperatura.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Análisis microbiológicos 
+                | Análisis microbiológicos.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Verificación de procesos 
+                | Verificación de procesos.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Control de vida útil 
+                | Control de vida útil.
           .row(titulo="Parámetros de control").ajuste-cajaAcordion
             p.mb-3 El control de calidad en alimentos incluye diferentes tipos de evaluación: el control físico analiza características como color y textura; el químico evalúa parámetros como pH y humedad; el microbiológico detecta la presencia de bacterias; y el sensorial examina olor y sabor.
           .row(titulo="Inocuidad alimentaria").ajuste-cajaAcordion
@@ -265,23 +265,23 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Evaluación constante 
+              | Evaluación constante.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Identificación de fallas 
+              | Identificación de fallas.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Implementación de acciones correctivas 
+              | Implementación de acciones correctivas.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Capacitación continua 
+              | Capacitación continua.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Innovación tecnológica 
+              | Innovación tecnológica.
       .col-xl-auto(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img130.png", alt="" ).m-auto
@@ -292,7 +292,7 @@
             .caja-2.p-5.ajuste-color-2
               p En la siguiente tabla se presenta el ciclo de mejora continua (PHVA), una metodología que permite optimizar procesos mediante la planificación, ejecución, verificación y acción, garantizando el control, la evaluación de resultados y la mejora continua.
               .row.justify-content-center.mb-0
-                .col-xl-6
+                .col-xl-auto
                   p.mb-5 
                   .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                     h5 Tabla 10.

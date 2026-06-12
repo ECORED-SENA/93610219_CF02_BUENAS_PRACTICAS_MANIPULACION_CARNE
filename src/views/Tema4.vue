@@ -14,7 +14,7 @@
         p.mb-0 La conservación de la carne es esencial para evitar su deterioro y proteger la salud del consumidor. La #[b cadena de frío] permite controlar la temperatura en todas las etapas, mientras que el #[b bienestar animal] influye en la calidad final del producto.
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.1 Importancia de la cadena de frío
-    p.mb-5 En el siguiente pódcast se profundizará sobre la importancia de la cadena de frío en la industria cárnica.
+    p.mb-5 En el siguiente pódcast se profundizará en la importancia de la cadena de frío en la industria cárnica.
     .row.align-items-center.m-0.mb-0
       .col-xl
         .row.align-items-center.justify-content-center.caja-7(data-aos="zoom-in")
@@ -42,7 +42,7 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img73.jpg', alt="" ).m-auto
-            h4.text-center  Refrigeración (0° C a 4° C)
+            h4.text-center  Refrigeración (0 °C a 4 °C)
             .box___card_sinbordes_p
               p.mb-0.text-center Disminuye la actividad bacteriana sin congelar el producto.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -51,7 +51,7 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img74.jpg', alt="" ).m-auto
-            h4.text-center Congelación (-18° C o menor)
+            h4.text-center Congelación (-18 °C o menor)
             .box___card_sinbordes_p
               p.mb-0.text-center Detiene casi por completo el crecimiento microbiano.
       .col-xl-4.col-md-9(data-aos="fade-left")
@@ -60,7 +60,7 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img75.jpg', alt="" ).m-auto
-            h4.text-center Zona de peligro (5° C - 60° C)
+            h4.text-center Zona de peligro (5 °C - 60 °C)
             .box___card_sinbordes_p
               p.mb-0.text-center En este rango las bacterias se multiplican rápidamente, aumentando el riesgo sanitario.
     Separador

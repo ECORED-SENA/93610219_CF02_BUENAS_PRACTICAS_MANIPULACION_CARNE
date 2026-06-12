@@ -71,19 +71,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Contaminación de alimentos
+                    | Contaminación de alimentos.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Transmisión de enfermedades
+                    | Transmisión de enfermedades.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Deterioro de materias primas
+                    | Deterioro de materias primas.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Contaminación cruzada
+                    | Contaminación cruzada.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img158.png', alt='' style="max-width: 500px").m-auto
@@ -95,15 +95,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Salmonelosis
+                    | Salmonelosis.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Leptospirosis
+                    | Leptospirosis.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Gastroenteritis
+                    | Gastroenteritis.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img159.png', alt='' style="max-width: 500px").m-auto
@@ -115,19 +115,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Presencia de residuos
+                    | Presencia de residuos.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Acumulación de agua
+                    | Acumulación de agua.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Falta de limpieza
+                    | Falta de limpieza.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Alimentos expuestos
+                    | Alimentos expuestos.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img160.png', alt='' style="max-width: 500px").m-auto
@@ -235,7 +235,7 @@
                   i.fas.fa-check-circle
                 | Eliminación mediante sistemas adecuados.
           .row(titulo="Buenas prácticas en manejo de residuos").ajuste-cajaAcordion
-            p En la siguiente table se presenta el beneficio de cada práctica:
+            p En la siguiente tabla se presenta el beneficio de cada práctica:
             .ajuste-tabla-acordion
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Tabla 13.
@@ -422,7 +422,7 @@
           .col-xl
             h2 Ejemplo
         p La toxoplasmosis es una enfermedad que puede ser transmitida por animales y representa un riesgo para la salud humana.
-        p.mb-0 #[b Medida sanitaria clave:] No se permite la presencia de animales domésticos en áreas de proceso de alimentos.
+        p.mb-0 #[b Medida sanitaria clave:] no se permite la presencia de animales domésticos en áreas de proceso de alimentos.
 
 </template>
 

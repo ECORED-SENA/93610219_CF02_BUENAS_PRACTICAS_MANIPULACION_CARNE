@@ -248,27 +248,27 @@
                 .lista-ol--cuadro__vineta
                   span 1
                 | 
-                p.fit--p-ol.mb-0 Mojar manos 
+                p.fit--p-ol.mb-0 Mojar manos.
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span 2
                 | 
-                p.fit--p-ol.mb-0 Aplicar jabón 
+                p.fit--p-ol.mb-0 Aplicar jabón.
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span 3
                 | 
-                p.fit--p-ol.mb-0 Frotar palma, dedos y uñas 
+                p.fit--p-ol.mb-0 Frotar palma, dedos y uñas.
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span 4
                 | 
-                p.fit--p-ol.mb-0 Enjuagar 
+                p.fit--p-ol.mb-0 Enjuagar.
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span 5
                 | 
-                p.fit--p-ol.mb-0 Secar con toalla desechable 
+                p.fit--p-ol.mb-0 Secar con toalla desechable.
             p.mb-0 #[b Momentos clave:]
             ul.fa-ul.mb-0
               li.mb-0

@@ -61,7 +61,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/intro/img3.svg', alt='')
               .col-xl
-                p.mb-0 La “Resolución 2574” #[b no corresponde actualmente al marco principal del sistema cárnico], por lo cual se reemplaza correctamente por la #[b Resolución 240 y 242 de 2013], que sí desarrollan el Decreto 1500. 
+                p.mb-0 La “Resolución 2574” #[b no corresponde actualmente al marco principal del sistema cárnico], por lo cual se reemplaza correctamente por las #[b Resoluciones 240 y 242 de 2013], que sí desarrollan el Decreto 1500. 
         p.mb-5 A continuación, se explican algunos conceptos que vienen inmersos en el Decreto 1500 del 2007.
         .bg-slider.mb-5
           .px-5
@@ -140,7 +140,7 @@
                   img(src='@/assets/curso/temas/img15.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 Faenado
-                p.mb-0 Es la separación en partes y en viseras de un animal en canal.
+                p.mb-0 Es la separación en partes y en vísceras de un animal en canal.
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
@@ -168,7 +168,7 @@
                   img(src='@/assets/curso/temas/img18.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 Sacrificio
-                p.mb-0 Proceso que se realiza para darle muerte a un animal; inicia con la sensibilización y termina en desangrado.
+                p.mb-0 Proceso que se realiza para darle muerte de un animal; inicia con la sensibilización y termina en desangrado.
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Decreto 1500 de 2007 y su aplicación
@@ -296,7 +296,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-xl.mb-4.mb-lg-0(data-aos="fade-right")
         .caja-2.ajuste-caja-2
-          p La producción primaria de la carne según el decreto 1500 requiere lo siguiente:
+          p La producción primaria de la carne, según el decreto 1500, requiere lo siguiente:
           ul.fa-ul.estilo___ul.mb-0
             li.mb-0
               span.fa-li
@@ -752,7 +752,7 @@
                 span.fa-li
                   i.fas.fa-check-circle
                 | Plásticos de grado alimenticio.
-            p Materiales prohibidos
+            p #[b Materiales prohibidos]
             ul.fa-ul.mb-3
               li.mb-0
                 span.fa-li
@@ -837,103 +837,103 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Termómetros 
+                    | Termómetros.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Balanzas 
+                    | Balanzas.
                 p #[b Importancia de la calibración]
                 ul.fa-ul.mb-3
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Control de temperatura 
+                    | Control de temperatura.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Control de peso 
+                    | Control de peso.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Precisión en procesos 
+                    | Precisión en procesos.
               .row(titulo="Cadena de frío").ajuste-cajaAcordion
                 p #[b Equipos clave]
                 ul.fa-ul.mb-3
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Cámaras frigoríficas 
+                    | Cámaras frigoríficas.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Refrigeradores 
+                    | Refrigeradores.
                 p #[b Funciones sanitarias]
                 ul.fa-ul.mb-3
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Evitar crecimiento microbiano 
+                    | Evitar crecimiento microbiano.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Mantener inocuidad 
+                    | Mantener inocuidad.
               .row(titulo="Impacto en la calidad del producto").ajuste-cajaAcordion
                 p #[b Efectos del uso adecuado de equipos]
                 ul.fa-ul.mb-3
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Reducción de contaminación 
+                    | Reducción de contaminación.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Mayor vida útil 
+                    | Mayor vida útil.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Estabilidad microbiológica 
+                    | Estabilidad microbiológica.
               .row(titulo="Verificación y registros").ajuste-cajaAcordion
                 p #[b Registros exigidos por la normativa]
                 ul.fa-ul.mb-3
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Registros de limpieza 
+                    | Registros de limpieza.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Control de temperatura 
+                    | Control de temperatura.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Mantenimiento 
+                    | Mantenimiento.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Listas de chequeo 
+                    | Listas de chequeo.
               .row(titulo="Equipos críticos en planta cárnica").ajuste-cajaAcordion
                 p #[b Principales equipos]
                 ul.fa-ul.mb-3
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Molinos
+                    | Molinos.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Sierras 
+                    | Sierras.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Mesas de corte 
+                    | Mesas de corte.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Tanques 
+                    | Tanques.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Cámaras de frío 
+                    | Cámaras de frío.
                 p.mb-3 Son considerados Puntos críticos de control (PCC) en HACCP.
         p.mb-5 Se presenta un cuadro resumen que muestra de forma clara la relación entre la normatividad sanitaria y la inocuidad en la industria cárnica, evidenciando cómo cada requisito contribuye a la calidad y seguridad de los productos.
         .row.justify-content-center

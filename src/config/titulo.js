@@ -1,2 +1,2 @@
 module.exports =
-  'Buenas Prácticas de Manufactura, Manipulación de Alimentos e Inocuidad en la Industria Cárnica'
+  'Buenas prácticas de manufactura, manipulación de alimentos e inocuidad en la industria cárnica'

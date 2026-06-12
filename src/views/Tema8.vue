@@ -160,15 +160,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Comprende el riesgo 
+                    | Comprende el riesgo.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Actúa preventivamente 
+                    | Actúa preventivamente.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    |  Se apropia de las normas 
+                    |  Se apropia de las normas.
     Separador
     #t_8_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.4 Condiciones de salud del manipulador
@@ -207,23 +207,23 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Manos 
+                  | Manos.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Cavidad nasal 
+                  | Cavidad nasal.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Boca 
+                  | Boca.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Piel
+                  | Piel.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Cabello 
+                  | Cabello.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-6.h-100
           .row.justify-content-center.mb-3
@@ -245,19 +245,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Exámenes médicos periódicos
+                  | Exámenes médicos periódicos.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Registro de salud
+                  | Registro de salud.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Control de incapacidades
+                  | Control de incapacidades.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Vigilancia epidemiológica
+                  | Vigilancia epidemiológica.
     Separador
     #t_8_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.5 Enfermedades transmisibles y su impacto en los alimentos

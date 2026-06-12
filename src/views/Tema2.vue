@@ -45,7 +45,7 @@
                 img(src='@/assets/curso/temas/img51.png', alt='' style="width: 300px").m-auto
             .col-lg.fit___pasosA-left
               h3 Paredes
-              p.mb-0 Las paredes del área de producción de productos cárnicos deben ser de colores claros, resistentes y de fácil limpieza y desinfección, las uniones entre las paredes deben ser de forma redondeada para así evitar la acumulación de cualquier tipo de suciedad.
+              p.mb-0 Las paredes del área de producción de productos cárnicos deben ser de colores claros, resistentes y de fácil limpieza y desinfección; las uniones entre las paredes deben ser de forma redondeada para así evitar la acumulación de cualquier tipo de suciedad.
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Techos
@@ -59,7 +59,7 @@
                 img(src='@/assets/curso/temas/img53.png', alt='' style="width: 300px").m-auto
             .col-lg.fit___pasosA-left
               h3 Puertas
-              p.mb-0 Las puertas en la planta de proceso deben ser amplias, que permitan la entrada de materias primas y la salida de desechos y productos terminados, además deben tener dispositivos de cierre automático y ajuste hermético, las superficies de éstas no deben ser para nada absorbentes y los orificios entre la puerta y el exterior deben ser lo más reducido posible para que no permita la entrada de ninguna plaga o roedores. De la recepción de materia prima al área de proceso debe haber doble puerta.
+              p.mb-0 Las puertas en la planta de proceso deben ser amplias, que permitan la entrada de materias primas y la salida de desechos y productos terminados; además, deben tener dispositivos de cierre automático y ajuste hermético. Las superficies de éstas no deben ser para nada absorbentes y los orificios entre la puerta y el exterior deben ser lo más reducidos posible para que no permitan la entrada de ninguna plaga o roedores. De la recepción de materia prima al área de proceso debe haber doble puerta.
           .row.align-items-center
             .col-lg.mb-4.mb-lg-0
               h3 Iluminación
@@ -118,29 +118,29 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Acero inoxidable 
+                | Acero inoxidable.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Plásticos grado alimenticio 
+                | Plásticos grado alimenticio.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Materiales no tóxicos 
+                | Materiales no tóxicos.
           .row(titulo="Materiales prohibidos").ajuste-cajaAcordion
             ul.fa-ul.mb-3
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Madera 
+                | Madera.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Metales oxidados 
+                | Metales oxidados.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Superficies porosas 
+                | Superficies porosas.
           .row(titulo="Importancia").ajuste-cajaAcordion
             ul.fa-ul.mb-3
               li.mb-0
